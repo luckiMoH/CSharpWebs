@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <h1>Welcom to my Web Application</h1>
+            <h1>Welcome to my Web Application</h1>
             <br />
             <img src="images/zdjecie%20Mateusz.jpg" width="50%" />&nbsp;&nbsp;
             <asp:Label ID="labelWelcome" runat="server" Text=""></asp:Label>
